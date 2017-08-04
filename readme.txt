@@ -5,3 +5,5 @@ Git is free software.
 git is goudan
 
 heha
+
+Git tracks changes of files.
